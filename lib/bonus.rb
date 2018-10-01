@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  epic_tragedy
+  epic_tragedy (motague: hero: status: "dead")
 
   
 
